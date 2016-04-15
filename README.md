@@ -7,9 +7,9 @@ cloratación/carbonización del concreto bajo condiciones atmosféricas en medio
 no saturados.
 
 Version en français.
-Salut à tous. Dans ce répertoire vous pourriez trouver des modules programmés 
+Salut à tous. Dans ce répertoire vous pourrez trouver des modules programmés 
 principalement sous Python pour faire la modélisation numérique du couplage 
-chloration/carbonatation du béton sous conditions atmosphériques en milieu poreux non 
+chloruration/carbonatation du béton sous conditions atmosphériques en milieu poreux non 
 saturé.
 
 English version
